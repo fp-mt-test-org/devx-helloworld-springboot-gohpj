@@ -1,0 +1,5 @@
+config:
+  host: devx-helloworld-springboot-gohpj.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-gohpj-docker-dev-local/devx-helloworld-springboot-gohpj
+    tag: 0.0.1-SNAPSHOT
